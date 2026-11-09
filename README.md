@@ -1,37 +1,60 @@
-<p align="center">
-  <a href="https://github.com/hackitwithseo">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1f9c8f&fontSize=54&height=90&width=538&text=Hello!%20I'm%20Seo" alt="Hello! I&#39;m Seo" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=I%20Do%20Fun%20Projects;Wanabe%20CYBERSECURITY" alt="Typing headlines" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/sheet-main?username=hackitwithseo&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F266646940%3Fu%3Dcf549a8270ba01ce2999a944fa64619db149db38%26v%3D4&mode=dark" />
+  <img src="https://www.gitskins.com/api/section/sheet-main?username=hackitwithseo&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F266646940%3Fu%3Dcf549a8270ba01ce2999a944fa64619db149db38%26v%3D4&mode=dark" width="100%" alt="hackitwithseo's character sheet" />
+</picture>
 
 
 
-### Discord RAT [RATD](https://github.com/hackitwithseo/RATD)                       
-### Telegram RAT [RATT](https://github.com/hackitwithseo/RATT)
 
-### 🛠️ Tech Stack
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<table align="center" width="95%">
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/hackitwithseo/YT-Sponsor-Skipper">
+<img src="https://img.shields.io/badge/01--RATD-1b222c?style=for-the-badge&logo=github&logoColor=39b451&labelColor=141a22" width="300">
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/hackitwithseo/Twich-Addblock-Analyzer">
+<img src="https://img.shields.io/badge/02--RATT-1b222c?style=for-the-badge&logo=github&logoColor=39b451&labelColor=141a22" width="300">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/hackitwithseo/-MYAPP-">
+<img src="https://img.shields.io/badge/03--MYAPP-1b222c?style=for-the-badge&logo=github&logoColor=39b451&labelColor=141a22" width="300">
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/hackitwithseo/Insta-Loock">
+<img src="https://img.shields.io/badge/04--Insta_Loock-1b222c?style=for-the-badge&logo=github&logoColor=39b451&labelColor=141a22" width="300">
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/hackitwithseo/INF-EXE">
+<img src="https://img.shields.io/badge/05--INF_EXE-1b222c?style=for-the-badge&logo=github&logoColor=39b451&labelColor=141a22" width="300">
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/hackitwithseo/JarvisLauncher">
+<img src="https://img.shields.io/badge/06--JarvisLauncher-1b222c?style=for-the-badge&logo=github&logoColor=39b451&labelColor=141a22" width="300">
+</a>
+</td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=hackitwithseo&show_icons=true&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=hackitwithseo&layout=compact&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
 
-### 📈 Contribution Graph
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=hackitwithseo&bg_color=00000000&color=1f9c8f&line=1f9c8f&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/hackitwithseo">hackitwithseo</a></i></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/sheet-inventory?username=hackitwithseo&mode=light" />
+  <img src="https://www.gitskins.com/api/section/sheet-inventory?username=hackitwithseo&mode=dark" width="100%" alt="Inventory: the languages I write" />
+</picture>
+
