@@ -12,7 +12,7 @@
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/hackitwithseo/YT-Sponsor-Skipper">
-<img src="https://img.shields.io/badge/01--YT_Sp_Sk-1b222c?style=for-the-badge&logo=github&logoColor=39b451&labelColor=141a22" width="300">
+<img src="https://img.shields.io/badge/01-YT_Sponsor_Skipper-1b222c?style=for-the-badge&logo=github&logoColor=39b451&labelColor=141a22" width="300">
 </a>
 </td>
 <td align="center" width="50%">
